@@ -42,11 +42,11 @@
 
 ### Détails du Fonctionnement
 
-- **Step 1** L’algorithme crée tout d’abords le maximum de cluster pour notre jeu de donnée. (10 dans notre cas)
-- **Step 2** Calcule il calcule la distance de Hamming moyenne entre tous ces clusters.
-- **Step 3** Compare les distances afin d’extraire la distance minimum entre deux clusters. (si égalité de des distances, il choisit la dernière distance minimum rencontré) 
-- **Step 4** Fusionne les clusters conserné.
-- **Step 5** Recommencer depuis l’étape 2 jusqu’à ce que le nombre de cluster généré soit égal au nombre de cluster demandé 
+- **Step 1** L’algorithme crée tout d’abord le maximum de cluster pour notre jeu de données. (10 dans notre cas)
+- **Step 2** Calcule la distance de Hamming moyenne entre tous ces clusters.
+- **Step 3** Compare les distances afin d’extraire la distance minimum entre deux clusters. (si égalité des distances, il choisit la dernière distance minimum rencontré) 
+- **Step 4** Fusionne les clusters consernés.
+- **Step 5** Recommencer depuis l’étape 2 jusqu’à ce que le nombre de clusters généré soit égal au nombre de clusters demandé 
 
 ### Exemple (procédure pour 6 clusters) 
  
