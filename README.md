@@ -1,4 +1,4 @@
-# clustering
+# Clustering (Par distance de Hamming)
 ## Reflexion
 
 ## Algorithme
