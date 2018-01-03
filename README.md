@@ -2,6 +2,22 @@
 ## Reflexion
 
 ## Algorithme
+### Convertion du jeu de donnée en matrice booleen
+
+| Element   |  Couleur  |  Noyaux  |  Flagelles  |  Membrane  | 
+|----|-----|-----|-----|-----|
+| 1  |  1  |  0  |  0  |  0  |
+| 2  |  1  |  1  |  0  |  0  |
+| 3  |  0  |  0  |  0  |  0  |
+| 4  |  1  |  0  |  1  |  0  |
+| 5  |  1  |  0  |  0  |  1  |
+| 6  |  1  |  1  |  1  |  1  |
+| 7  |  0  |  0  |  0  |  1  |
+| 8  |  0  |  1  |  1  |  0  |
+| 9  |  0  |  1  |  1  |  1  |
+| 10 |  0  |  0  |  1  |  1  |
+*note: pour noyau ... = 0 et ... = 1 et pour Flagelles ... = 0 et ... = 1*
+
 
 ### Détails du Fonctionnement
 
