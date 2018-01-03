@@ -75,7 +75,6 @@ Cluster de base à 10 elements (Step 1):
 Installation de [Golang](https://golang.org/doc/install) 
 ### Mise en place
 ```
-Installation de Golang sur votre machine: https://golang.org/doc/install
 mkdir $HOME/go/src/github.com/PiLemichel/
 cd $HOME/go/src/github.com/PiLemichel/
 git clone https://github.com/PiLemichel/clustering.git
