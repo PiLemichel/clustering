@@ -17,7 +17,7 @@
 
 *note: pour couleur foncé = 0 et clair = 1 et pour membrane fine = 0 et épaisse = 1*
 
-### Matrice des distances de hamming du jeu de donnée 
+### Matrice des distances de hamming du jeu de donnée (question a)
 
 
 |   |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
@@ -32,6 +32,10 @@
 |8  |  3  |  2  |  2  |  2  |  4  |  2  |  3  |  0  |  1  |  2  |
 |9  |  4  |  3  |  3  |  3  |  3  |  1  |  2  |  1  |  0  |  1  |
 |10 |  3  |  4  |  2  |  2  |  2  |  2  |  1  |  2  |  1  |  0  |
+
+### 2 clusters  (question b)
+Cluster 1: [{clair 2 2 fine} {clair 1 2 fine} {clair 2 1 fine} {foncée 2 2 fine} {foncée 2 2 épaisse} {clair 2 2 épaisse} {foncée 2 1 épaisse}]
+Cluster 2: [{clair 1 1 épaisse}, {foncée 1 1 épaisse}, {foncée 1 1 fine}]
 
 ## Algorithme
 
