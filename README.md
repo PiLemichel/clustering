@@ -78,7 +78,7 @@ Installation de [Golang](https://golang.org/doc/install)
 Installation de Golang sur votre machine: https://golang.org/doc/install
 mkdir $HOME/go/src/github.com/PiLemichel/
 cd $HOME/go/src/github.com/PiLemichel/
-git clone git@github.com:PiLemichel/clustering.git
+git clone https://github.com/PiLemichel/clustering.git
 cd clustering
 ```
 ### Lancement
