@@ -17,19 +17,19 @@ Cluster de base à 10 elements:
 ```
 [[{clair 2 2 fine}][{clair 1 2 fine}][{foncée 2 2 fine}] [{clair 2 1 fine}] [{clair 2 2 épaisse}] [{clair 1 1 épaisse}] [{foncée 2 2 épaisse}] [{foncée 1 1 fine}] [{foncée 1 1 épaisse}] [{foncée 2 1 épaisse}]]
 ```
-{clair 2 2 fine} et {clair 1 2 fine} pour une distance de 1, fusion des deux clusters: 
+**{clair 2 2 fine}** et **{clair 1 2 fine}** pour une distance de 1, fusion des deux clusters: 
 ```
 [[{clair 2 2 fine} {clair 1 2 fine}]  [{foncée 2 2 fine}] [{clair 2 1 fine}] [{clair 2 2 épaisse}] [{clair 1 1 épaisse}] [{foncée 2 2 épaisse}] [{foncée 1 1 fine}] [{foncée 1 1 épaisse}] [{foncée 2 1 épaisse}]]
 ```
-{foncée 2 2 fine} et {foncée 2 2 épaisse} pour une distance de 1, fusion des deux clusters: 
+**{foncée 2 2 fine}** et **{foncée 2 2 épaisse}** pour une distance de 1, fusion des deux clusters: 
 ```
 [[{clair 2 2 fine} {clair 1 2 fine}]  [{foncée 2 2 fine} {foncée 2 2 épaisse}] [{clair 2 1 fine}] [{clair 2 2 épaisse}] [{clair 1 1 épaisse}] [{foncée 1 1 fine}] [{foncée 1 1 épaisse}] [{foncée 2 1 épaisse}]]
 ```
-{clair 1 1 épaisse} et {foncée 1 1 épaisse} pour une distance de 1, fusion des deux clusters:  
+**{clair 1 1 épaisse}** et **{foncée 1 1 épaisse}** pour une distance de 1, fusion des deux clusters:  
 ```
 [[{clair 2 2 fine} {clair 1 2 fine}]  [{foncée 2 2 fine} {foncée 2 2 épaisse}] [{clair 2 1 fine}] [{clair 2 2 épaisse}] [{clair 1 1 épaisse} {foncée 1 1 épaisse}]  [{foncée 1 1 fine}] [{foncée 2 1 épaisse}]]
 ```
-{clair 2 2 fine} {clair 1 2 fine} et {clair 2 1 fine} 3 pour une distance de  1.5, fusion des deux clusters: 
+**{clair 2 2 fine} {clair 1 2 fine}** et **{clair 2 1 fine}** 3 pour une distance de  1.5, fusion des deux clusters: 
 ```
  [[{clair 2 2 fine} {clair 1 2 fine} {clair 2 1 fine}] [{foncée 2 2 fine} {foncée 2 2 épaisse}] [{clair 2 2 épaisse}] [{clair 1 1 épaisse} {foncée 1 1 épaisse}]  [{foncée 1 1 fine}] [{foncée 2 1 épaisse}]]
 ```
