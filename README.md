@@ -69,7 +69,7 @@ go build
 - Compréhension de l’exercice et de la distance de hamming + partie écrite : **4h**
 - Apprentissage d’un nouveau langage (GOlang) + développement de l’algorithme : **14h**
 
-### Remerciment 
+### Remerciements
 
 Les bienfaits de la [Caféine](https://fr.wikipedia.org/wiki/Caf%C3%A9ine)
 
