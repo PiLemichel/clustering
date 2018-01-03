@@ -15,7 +15,7 @@
 | 9  |  0  |  1  |  1  |  1  |
 | 10 |  0  |  0  |  1  |  1  |
 
-*note: pour couleur foncé = 0 et clair = 1 et pour membrane fine = 0 et épaisse = 1*
+*note: pour couleur "foncée" = 0 et "claire" = 1 et pour "membrane" fine = 0 et "épaisse" = 1*
 
 ### Matrice des distances de hamming du jeu de donnée (question a)
 
