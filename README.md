@@ -63,7 +63,7 @@ go build
 ### Colaborations
  Echange sur le fonctionnement que dois adopter l’algorithme : « Axel Bonavia, geoffrey Dalfin, Yohan Liaibard, benjamin Thirouard »
  
- Echange sur le resonnement ecris: "Axel Bonavial"
+ Echange sur le raisonnement ecris: "Axel Bonavial"
  
 ### Autres
 - Compréhension de l’exercice et de la distance de hamming + partie écrite : **4h**
