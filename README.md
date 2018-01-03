@@ -1,10 +1,8 @@
 # Clustering (Par distance de Hamming)
 ## Reflexion
-
-## Algorithme
 ### Convertion du jeu de donnée en matrice booleen
 
-| Element   |  Couleur  |  Noyaux  |  Flagelles  |  Membrane  | 
+|    |  1  |  2  |  3  |  4  | 
 |----|-----|-----|-----|-----|
 | 1  |  1  |  0  |  0  |  0  |
 | 2  |  1  |  1  |  0  |  0  |
@@ -16,8 +14,10 @@
 | 8  |  0  |  1  |  1  |  0  |
 | 9  |  0  |  1  |  1  |  1  |
 | 10 |  0  |  0  |  1  |  1  |
+
 *note: pour noyau ... = 0 et ... = 1 et pour Flagelles ... = 0 et ... = 1*
 
+## Algorithme
 
 ### Détails du Fonctionnement
 
