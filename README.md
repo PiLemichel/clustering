@@ -34,7 +34,7 @@
 |10 |  3  |  4  |  2  |  2  |  2  |  2  |  1  |  2  |  1  |  0  |
 
 ### 2 clusters  (question b)
-**Cluster 1:** [{clair 2 2 fine} {clair 1 2 fine} {clair 2 1 fine} {foncée 2 2 fine} {foncée 2 2 épaisse} {clair 2 2 épaisse} {foncée 2 1 épaisse}]
+**Cluster 1:** [{clair 2 2 fine}, {clair 1 2 fine}, {clair 2 1 fine}, {foncée 2 2 fine}, {foncée 2 2 épaisse}, {clair 2 2 épaisse}, {foncée 2 1 épaisse}]
 
 **Cluster 2:** [{clair 1 1 épaisse}, {foncée 1 1 épaisse}, {foncée 1 1 fine}]
 
