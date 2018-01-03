@@ -33,5 +33,47 @@ Cluster de base à 10 elements (Step 1):
 ```
  [[{clair 2 2 fine} {clair 1 2 fine} {clair 2 1 fine}] [{foncée 2 2 fine} {foncée 2 2 épaisse}] [{clair 2 2 épaisse}] [{clair 1 1 épaisse} {foncée 1 1 épaisse}]  [{foncée 1 1 fine}] [{foncée 2 1 épaisse}]]
 ```
+## Commencer
+### Prérequis
+Installation de [Golang](https://golang.org/doc/install) 
+### Mise en place
+```
+Installation de Golang sur votre machine: https://golang.org/doc/install
+mkdir $HOME/go/src/github.com/PiLemichel/
+cd $HOME/go/src/github.com/PiLemichel/
+git clone git@github.com:PiLemichel/clustering.git
+cd clustering
+```
+### Lancement
+```
+go build 
+./cluster
+```
+
+## Retours
+
+### Les axe d’amélioration 
+
+-    L’algorithme ne fonction que pour un jeu de données, des 10 éléments composés eux même de 4 éléments. Un refacto’ du code afin de le rendre « adaptable » à N élément composé de N éléments est donc un axe d’amélioration majeur de cet algorithme.
+
+-    Du fait du choix arbitraire de la distance minimal, l’algorithme ne fournit qu’une seule possibilité de cluster ce qui pourrait être remédié par la mise en place d’un choix « random » de la distance minimum. Nous obtiendrons ainsi des clusters différents à chaque lancement.
+
+-    Sans les commentaire le code reste difficile à lire, un découpage plus important du code facilitera sans doute à la fois la lecture du code et serai par la même occasion une possibilité de l’optimiser ce qui n’ai pas le cas aujourd’hui.
+
+### Colaborations
+ Echange sur le fonctionnement que dois adopter l’algorithme : « Axel Bonavia, geoffrey Dalfin, Yohan Liaibard, benjamin Thirouard »
+ 
+ Echange sur le resonnement ecris: "Axel Bonavial"
+ 
+### Autres
+- Compréhension de l’exercice et de la distance de hamming + partie écrite : **4h**
+- Apprentissage d’un nouveau langage (GOlang) + développement de l’algorithme : **14h**
+
+### Remerciment 
+
+Les bienfaits de la [Caféine](https://fr.wikipedia.org/wiki/Caf%C3%A9ine)
+
+
+
 
 
