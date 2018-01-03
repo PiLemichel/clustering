@@ -84,7 +84,7 @@ cd clustering
 ### Lancement
 ```
 go build 
-./cluster
+./clustering
 ```
 
 ## Retours
