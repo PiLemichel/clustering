@@ -91,19 +91,19 @@ go build
 
 ### Les axe d’amélioration 
 
--    L’algorithme ne fonction que pour un jeu de données, des 10 éléments composés eux même de 4 éléments. Un refacto’ du code afin de le rendre « adaptable » à N élément composé de N éléments est donc un axe d’amélioration majeur de cet algorithme.
+-    L’algorithme ne fonction que pour un jeu de données de 10 éléments composés eux même de 4 éléments. Un refacto’ du code afin de le rendre « adaptable » à N élément composé de N éléments est donc un axe d’amélioration majeur de cet algorithme.
 
 -    Du fait du choix arbitraire de la distance minimal, l’algorithme ne fournit qu’une seule possibilité de cluster ce qui pourrait être remédié par la mise en place d’un choix « random » de la distance minimum. Nous obtiendrons ainsi des clusters différents à chaque lancement.
 
--    Sans les commentaire le code reste difficile à lire, un découpage plus important du code facilitera sans doute à la fois la lecture du code et serai par la même occasion une possibilité de l’optimiser ce qui n’ai pas le cas aujourd’hui.
+-    Sans les commentaires le code reste difficile à lire, un découpage plus important du code facilitera sans doute à la fois la lecture du code et serai par la même occasion une possibilité de l’optimiser ce qui n’ait pas le cas aujourd’hui.
 
 ### Colaborations
- Echange sur le fonctionnement que dois adopter l’algorithme : « Axel Bonavia, geoffrey Dalfin, Yohan Liaibard, benjamin Thirouard »
+ Échange sur le fonctionnement que doit adopter l’algorithme : « Axel Bonavia, geoffrey Dalfin, Yohan Liaibard, benjamin Thirouard »
  
- Echange sur le raisonnement ecris: "Axel Bonavial"
+ Échange sur le raisonnement ecrit: "Axel Bonavial"
  
 ### Autres
-- Compréhension de l’exercice et de la distance de hamming + partie écrite : **4h**
+- Compréhension de l’exercice et de la distance de Hamming + partie écrite : **4h**
 - Apprentissage d’un nouveau langage (GOlang) + développement de l’algorithme : **14h**
 
 ### Remerciements
