@@ -95,11 +95,6 @@ go build
 -    Du fait du choix arbitraire de la distance minimal, l’algorithme ne fournit qu’une seule possibilité de cluster ce qui pourrait être remédié par la mise en place d’un choix « random » de la distance minimum. Nous obtiendrons ainsi des clusters différents à chaque lancement.
 
 -    Sans les commentaires le code reste difficile à lire, un découpage plus important du code facilitera sans doute à la fois la lecture du code et serai par la même occasion une possibilité de l’optimiser ce qui n’ait pas le cas aujourd’hui.
-
-### Colaborations
- Échange sur le fonctionnement que doit adopter l’algorithme : « Axel Bonavia, geoffrey Dalfin, Yohan Liaibard, benjamin Thirouard »
- 
- Échange sur le raisonnement ecrit: "Axel Bonavial"
  
 ### Autres
 - Compréhension de l’exercice et de la distance de Hamming + partie écrite : **4h**
